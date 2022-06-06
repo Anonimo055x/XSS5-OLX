@@ -1,9 +1,6 @@
 # XSS5-OLX
 
 
-<a href="https://imgbox.com/oNQYcc65" target="_blank"><img src="https://thumbs2.imgbox.com/a9/46/oNQYcc65_t.png" alt="image host"/></a>
-
-
 Modo de uso:
 
 
